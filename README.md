@@ -1,12 +1,20 @@
-# GraphDone
+# 🚨 REPOSITORY MOVED
+
+## ⚠️ This repository has been archived and moved to a new organization
+
+**New Repository:** [https://github.com/GraphDone/GraphDone-Core](https://github.com/GraphDone/GraphDone-Core)
+
+Please update your bookmarks, clone URLs, and any automation pointing to this repository.
+
+---
+
+## Original Project: GraphDone
 
 > Project management for teams who think differently. Coordinate through dependencies and outcomes, not hierarchies and assignments.
 
-![GraphDone UI Screenshot](./docs/graphdone_ui.png)
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-orange.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-moved-red.svg)
 
 ## What is GraphDone?
 
